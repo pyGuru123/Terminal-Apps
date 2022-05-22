@@ -1,2 +1,2 @@
 # Terminal-Apps
-Few projects written in C/C++
+Few projects written in C & Java
